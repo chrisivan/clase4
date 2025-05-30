@@ -1,0 +1,15 @@
+C:\repos\clase4\MiConsolaDemo\bin\Debug\net8.0\MiConsolaDemo.exe
+C:\repos\clase4\MiConsolaDemo\bin\Debug\net8.0\MiConsolaDemo.deps.json
+C:\repos\clase4\MiConsolaDemo\bin\Debug\net8.0\MiConsolaDemo.runtimeconfig.json
+C:\repos\clase4\MiConsolaDemo\bin\Debug\net8.0\MiConsolaDemo.dll
+C:\repos\clase4\MiConsolaDemo\bin\Debug\net8.0\MiConsolaDemo.pdb
+C:\repos\clase4\MiConsolaDemo\obj\Debug\net8.0\MiConsolaDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\clase4\MiConsolaDemo\obj\Debug\net8.0\MiConsolaDemo.AssemblyInfoInputs.cache
+C:\repos\clase4\MiConsolaDemo\obj\Debug\net8.0\MiConsolaDemo.AssemblyInfo.cs
+C:\repos\clase4\MiConsolaDemo\obj\Debug\net8.0\MiConsolaDemo.csproj.CoreCompileInputs.cache
+C:\repos\clase4\MiConsolaDemo\obj\Debug\net8.0\MiConsolaDemo.sourcelink.json
+C:\repos\clase4\MiConsolaDemo\obj\Debug\net8.0\MiConsolaDemo.dll
+C:\repos\clase4\MiConsolaDemo\obj\Debug\net8.0\refint\MiConsolaDemo.dll
+C:\repos\clase4\MiConsolaDemo\obj\Debug\net8.0\MiConsolaDemo.pdb
+C:\repos\clase4\MiConsolaDemo\obj\Debug\net8.0\MiConsolaDemo.genruntimeconfig.cache
+C:\repos\clase4\MiConsolaDemo\obj\Debug\net8.0\ref\MiConsolaDemo.dll
